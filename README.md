@@ -10,4 +10,4 @@ Complex numbers are points in the plane endowed with additional structure. We co
 
 `(x1, y1) = (x2, y2) iff x1 = x2 and y1 = y2`
 
-With two operations - addition and multiplication - defined below, the set R2 becomes the set C of complex numbers. R2 considered as a set of complex numbers C is called Argand diagram or Argand plane or Gauss plane.
+With any algebric operations , the set R2 becomes the set C of complex numbers. R2 considered as a set of complex numbers C is called Argand diagram or Argand plane or Gauss plane.
